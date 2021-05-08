@@ -1,4 +1,4 @@
 #background { 
-    background-image: url(background.jpg);
+    background-col: url(background.jpg);
     background-size: cover;
 }
